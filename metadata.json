@@ -1,0 +1,6 @@
+{
+  "name": "My PDF",
+  "description": "Every PDF tool you need in one place. Convert, compress, edit, merge, split, sign, protect, and AI-analyze your documents.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
